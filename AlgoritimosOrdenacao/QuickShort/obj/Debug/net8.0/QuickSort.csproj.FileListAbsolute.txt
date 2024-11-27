@@ -1,0 +1,5 @@
+C:\Users\felip\OneDrive\Área de Trabalho\estruturadados\estrutura-de-dados-24-\atividade01\AlgoritimosOrdenacao\QuickSort\obj\Debug\net8.0\QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\OneDrive\Área de Trabalho\estruturadados\estrutura-de-dados-24-\atividade01\AlgoritimosOrdenacao\QuickSort\obj\Debug\net8.0\QuickSort.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\estruturadados\estrutura-de-dados-24-\atividade01\AlgoritimosOrdenacao\QuickSort\obj\Debug\net8.0\QuickSort.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\estruturadados\estrutura-de-dados-24-\atividade01\AlgoritimosOrdenacao\QuickSort\obj\Debug\net8.0\QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\estruturadados\estrutura-de-dados-24-\atividade01\AlgoritimosOrdenacao\QuickSort\obj\Debug\net8.0\QuickSort.sourcelink.json

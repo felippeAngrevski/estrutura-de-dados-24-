@@ -1,0 +1,10 @@
+C:\Users\felip\OneDrive\Área de Trabalho\estruturadados\estrutura-de-dados-24-\atividade01\AlgoritimosOrdenacao\QuickSort\obj\Debug\net8.0\QuickShort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\OneDrive\Área de Trabalho\estruturadados\estrutura-de-dados-24-\atividade01\AlgoritimosOrdenacao\QuickSort\obj\Debug\net8.0\QuickShort.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\estruturadados\estrutura-de-dados-24-\atividade01\AlgoritimosOrdenacao\QuickSort\obj\Debug\net8.0\QuickShort.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\estruturadados\estrutura-de-dados-24-\atividade01\AlgoritimosOrdenacao\QuickSort\obj\Debug\net8.0\QuickShort.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\estruturadados\estrutura-de-dados-24-\atividade01\AlgoritimosOrdenacao\QuickSort\obj\Debug\net8.0\QuickShort.sourcelink.json
+C:\Users\felip\OneDrive\Área de Trabalho\estruturadados\estrutura-de-dados-24-\atividade01\AlgoritimosOrdenacao\QuickShort\obj\Debug\net8.0\QuickShort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\OneDrive\Área de Trabalho\estruturadados\estrutura-de-dados-24-\atividade01\AlgoritimosOrdenacao\QuickShort\obj\Debug\net8.0\QuickShort.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\estruturadados\estrutura-de-dados-24-\atividade01\AlgoritimosOrdenacao\QuickShort\obj\Debug\net8.0\QuickShort.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\estruturadados\estrutura-de-dados-24-\atividade01\AlgoritimosOrdenacao\QuickShort\obj\Debug\net8.0\QuickShort.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\estruturadados\estrutura-de-dados-24-\atividade01\AlgoritimosOrdenacao\QuickShort\obj\Debug\net8.0\QuickShort.sourcelink.json
