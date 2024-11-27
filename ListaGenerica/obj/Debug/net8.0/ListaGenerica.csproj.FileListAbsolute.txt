@@ -1,0 +1,5 @@
+C:\Users\felip\OneDrive\Área de Trabalho\estruturadados\estrutura-de-dados-24-\atividade01\ListaGenerica\obj\Debug\net8.0\ListaGenerica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\OneDrive\Área de Trabalho\estruturadados\estrutura-de-dados-24-\atividade01\ListaGenerica\obj\Debug\net8.0\ListaGenerica.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\estruturadados\estrutura-de-dados-24-\atividade01\ListaGenerica\obj\Debug\net8.0\ListaGenerica.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\estruturadados\estrutura-de-dados-24-\atividade01\ListaGenerica\obj\Debug\net8.0\ListaGenerica.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\estruturadados\estrutura-de-dados-24-\atividade01\ListaGenerica\obj\Debug\net8.0\ListaGenerica.sourcelink.json

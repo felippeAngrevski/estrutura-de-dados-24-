@@ -1,0 +1,15 @@
+C:\Users\felip\OneDrive\Área de Trabalho\estruturadados\estrutura-de-dados-24-\atividade01\ListaSimples\bin\Debug\net8.0\ListaSimples.exe
+C:\Users\felip\OneDrive\Área de Trabalho\estruturadados\estrutura-de-dados-24-\atividade01\ListaSimples\bin\Debug\net8.0\ListaSimples.deps.json
+C:\Users\felip\OneDrive\Área de Trabalho\estruturadados\estrutura-de-dados-24-\atividade01\ListaSimples\bin\Debug\net8.0\ListaSimples.runtimeconfig.json
+C:\Users\felip\OneDrive\Área de Trabalho\estruturadados\estrutura-de-dados-24-\atividade01\ListaSimples\bin\Debug\net8.0\ListaSimples.dll
+C:\Users\felip\OneDrive\Área de Trabalho\estruturadados\estrutura-de-dados-24-\atividade01\ListaSimples\bin\Debug\net8.0\ListaSimples.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\estruturadados\estrutura-de-dados-24-\atividade01\ListaSimples\obj\Debug\net8.0\ListaSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\OneDrive\Área de Trabalho\estruturadados\estrutura-de-dados-24-\atividade01\ListaSimples\obj\Debug\net8.0\ListaSimples.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\estruturadados\estrutura-de-dados-24-\atividade01\ListaSimples\obj\Debug\net8.0\ListaSimples.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\estruturadados\estrutura-de-dados-24-\atividade01\ListaSimples\obj\Debug\net8.0\ListaSimples.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\estruturadados\estrutura-de-dados-24-\atividade01\ListaSimples\obj\Debug\net8.0\ListaSimples.sourcelink.json
+C:\Users\felip\OneDrive\Área de Trabalho\estruturadados\estrutura-de-dados-24-\atividade01\ListaSimples\obj\Debug\net8.0\ListaSimples.dll
+C:\Users\felip\OneDrive\Área de Trabalho\estruturadados\estrutura-de-dados-24-\atividade01\ListaSimples\obj\Debug\net8.0\refint\ListaSimples.dll
+C:\Users\felip\OneDrive\Área de Trabalho\estruturadados\estrutura-de-dados-24-\atividade01\ListaSimples\obj\Debug\net8.0\ListaSimples.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\estruturadados\estrutura-de-dados-24-\atividade01\ListaSimples\obj\Debug\net8.0\ListaSimples.genruntimeconfig.cache
+C:\Users\felip\OneDrive\Área de Trabalho\estruturadados\estrutura-de-dados-24-\atividade01\ListaSimples\obj\Debug\net8.0\ref\ListaSimples.dll
